@@ -1,1 +1,1 @@
-# AI_Face_Blur-
+# AI_Face_Blur
